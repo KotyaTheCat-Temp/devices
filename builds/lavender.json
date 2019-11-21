@@ -1,17 +1,12 @@
 {
-   "error": false,
-   "filename": "EvolutionX_3.3_lavender-10.0-20191118-1405-UNOFFICIAL.zip",
-   "datetime": 1574085837,
-   "size": 1442052059,
-   "url": "https:\/\/sourceforge.net\/projects\/kotyathecat-project\/files\/lavender\/EvolutionX_3.3_lavender-10.0-20191118-1405-UNOFFICIAL.zip\/download",
-   "filehash": "5ad8472f4f44ef4173fa8580e8678f2c",
-   "version": "ten",
-   "id": "51e64dfa80a0e1207b869cecf80002e007d0ba7ca72f58fc81f91e9a750c75e3",
-   "website_url": "https://kotyathecat.github.io/",
-   "news_url": "https://kotyathecat.github.io/",
-   "donate_url": "instagram.com/kotyathecat_",
-   "maintainer": "Kotya Agapkin (TheKotya / KotyaTheCat)",
-   "maintainer_url": "https://t.me/kotyathecat",
-   "telegram_username": "kotyathecat",
-   "forum_url": ""
+  "response": [
+    {
+      "filename": "EvolutionX_3.3_lavender-10.0-20191118-1405-UNOFFICIAL.zip",
+      "version": "ten",
+      "size": 1442052059,
+      "datetime": 1574085837,
+      "id": "51e64dfa80a0e1207b869cecf80002e007d0ba7ca72f58fc81f91e9a750c75e3",
+      "url": "https:\/\/sourceforge.net\/projects\/kotyathecat-project\/files\/lavender\/EvolutionX_3.3_lavender-10.0-20191118-1405-UNOFFICIAL.zip\/download"
+    }
+  ]
 }
