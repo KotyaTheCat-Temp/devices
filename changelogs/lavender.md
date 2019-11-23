@@ -1,5 +1,5 @@
 Full Changelog:
 
-••••• 11-09-2019 •••••
+••••• 23-11-2019 •••••
 Device Changelog:
-• Intial Release
+• Minor fixes for audio
