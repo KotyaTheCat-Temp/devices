@@ -1,0 +1,3 @@
+ Initial build from Unicote
+ Kernel updated to v4.14.235 (based on QuicksilveR)
+ Blobs from MIUI R 12.0.8
